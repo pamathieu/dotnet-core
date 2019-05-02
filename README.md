@@ -3,7 +3,7 @@
 
 .NET Core Installations. 
 
-1) We are using Ubuntu 18.04 on-premise to run docker image the current verstion 2.2 Remember, At this momment we are writing this doc, the LTS verstion is 2.1 which can be installed by running: docker pull mcr.microsoft.com/dotnet/core/sdk:2.1  (best suited for production in term of life time support)
+1) We are using Ubuntu 18.04 on-premises to run docker image the current verstion 2.2 Remember, At this momment we are writing this doc, the LTS verstion is 2.1 which can be installed by running: docker pull mcr.microsoft.com/dotnet/core/sdk:2.1  (best suited for production in term of life time support)
 
     i) prerequisite: We need to install Docker. See my installation file                                                              (https://github.com/pamathieu/docker/blob/master/install_docker.sh)
     
